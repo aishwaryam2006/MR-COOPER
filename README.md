@@ -84,9 +84,11 @@ The application follows basic **Object-Oriented Programming (OOP)** principles:
 
 ## 🔹 Steps to Execute the Code
 
-### 1. Compile the code
-```bash
-javac *.java
+Option 1: Using VS Code (Recommended)
+Open the project folder in VS Code
+Make sure Java Extension Pack is installed
+Open App.java
+Click the ▶️ Run button (top right)
 
 
 

@@ -84,11 +84,14 @@ The application follows basic **Object-Oriented Programming (OOP)** principles:
 
 ## 🔹 Steps to Execute the Code
 
-**Using VS Code**
-  -Open the project folder in VS Code
-  -Make sure Java Extension Pack is installed
-  -Open App.java
-  -Click the ▶️ Run button (top right)
+### ▶️ Using VS Code
+
+- Open the project folder in **VS Code**
+- Ensure the **Java Extension Pack** is installed
+- Open the `App.java` file
+- Click the **▶️ Run** button (top right corner)
+
+👉 The program will start in the terminal with the menu-driven interface
 
 
 

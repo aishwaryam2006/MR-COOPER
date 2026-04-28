@@ -72,3 +72,22 @@ The application follows basic **Object-Oriented Programming (OOP)** principles:
 - Book titles are used as unique identifiers
 - Only one copy of each book is handled logically (availability-based)
 - System is console-based (no database)
+
+## 🔹 Steps to Execute the Code
+
+### 1. Compile the code
+```bash
+javac *.java
+
+<img width="1350" height="690" alt="image" src="https://github.com/user-attachments/assets/91690920-fa09-4f4e-8fc3-f52c574a676f" />
+
+
+<img width="1304" height="433" alt="image" src="https://github.com/user-attachments/assets/2c71b72e-5139-4a6a-a4ad-1ab69332bbf6" />
+
+
+<img width="734" height="442" alt="image" src="https://github.com/user-attachments/assets/ad27dd50-1abf-4a37-9406-5df4faa0d19b" />
+
+
+
+
+
